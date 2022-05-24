@@ -1,7 +1,8 @@
 GROUP : D6
 
-All works have their different task and they were posted on these web-pages. In some cases they are different because it has been a long time and the site is changing.
 
+All works have their different task and they were posted on these web-pages. In some cases they are different because it has been a long time and the site is changing.
+The system of education was about making everything as soon as possible with the highest quality. You could test yourself every three hours CET by sending your code to 'the Arena', where it was tested for uniqueness and flexibility.
 
 - 1️⃣**Carl Robot** - https://kurzy.kpi.fei.tuke.sk/zap/problemsets/ps-01.html
 It was my start in programming as it is. Carl the robot and the tasks with it were one of my first steps into the world of IT.
